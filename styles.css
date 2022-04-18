@@ -1,0 +1,12 @@
+body {
+    display: flex;
+}
+
+#results {
+    display: flex;
+    background-color: black;
+    width: 25em;
+    height: 10em;
+    margin-top: 20px;
+    color: white;
+}
